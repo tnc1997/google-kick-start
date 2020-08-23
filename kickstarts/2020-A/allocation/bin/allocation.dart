@@ -3,28 +3,27 @@ import 'dart:io';
 import 'package:allocation/allocation.dart';
 
 void main(List<String> arguments) {
-  var noOfTestCases = int.parse(stdin.readLineSync());
+  final t = int.parse(stdin.readLineSync());
 
-  for (var i = 1; i <= noOfTestCases; i++) {
-    var inputs = stdin
+  for (var x = 1; x <= t; x++) {
+    final nb = stdin
         .readLineSync()
         .split(' ')
         .map((input) => int.parse(input))
         .toList();
 
-    var noOfHousesForSale = inputs[0];
-    var budget = inputs[1];
-
-    var housesForSale = stdin
+    final a = stdin
         .readLineSync()
         .split(' ')
         .map((input) => int.parse(input))
         .toList();
 
-    if (housesForSale.length != noOfHousesForSale) {
+    if (a.length != nb[0]) {
       throw Exception('The number of houses is invalid.');
     }
 
-    print('Case #$i: ${getMaxNoOfHouses(budget, housesForSale)}');
+    final y = getMaxNoOfHouses(nb[1], a);
+
+    print('Case #$x: $y');
   }
 }
