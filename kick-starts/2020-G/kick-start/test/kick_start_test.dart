@@ -4,12 +4,6 @@ import 'package:test/test.dart';
 void main() {
   test('getNoOfLuckyFragments', () {
     expect(
-      getNoOfLuckyFragments(
-          'KICKXKICKXSTARTXKICKXSTARTXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXKICK'),
-      5,
-    );
-
-    expect(
       getNoOfLuckyFragments('AKICKSTARTPROBLEMNAMEDKICKSTART'),
       3,
     );

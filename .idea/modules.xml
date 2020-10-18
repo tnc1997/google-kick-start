@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kickstarts/2020-A/allocation/allocation.iml" filepath="$PROJECT_DIR$/kickstarts/2020-A/allocation/allocation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kickstarts/2020-C/countdown/countdown.iml" filepath="$PROJECT_DIR$/kickstarts/2020-C/countdown/countdown.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kickstarts/2020-G/kick-start/kick-start.iml" filepath="$PROJECT_DIR$/kickstarts/2020-G/kick-start/kick-start.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kickstarts/2020-E/longest-arithmetic/longest-arithmetic.iml" filepath="$PROJECT_DIR$/kickstarts/2020-E/longest-arithmetic/longest-arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kick-starts/2020-A/allocation/allocation.iml" filepath="$PROJECT_DIR$/kick-starts/2020-A/allocation/allocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kick-starts/2020-C/countdown/countdown.iml" filepath="$PROJECT_DIR$/kick-starts/2020-C/countdown/countdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kick-starts/2020-G/kick-start/kick-start.iml" filepath="$PROJECT_DIR$/kick-starts/2020-G/kick-start/kick-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kick-starts/2020-E/longest-arithmetic/longest-arithmetic.iml" filepath="$PROJECT_DIR$/kick-starts/2020-E/longest-arithmetic/longest-arithmetic.iml" />
     </modules>
   </component>
 </project>

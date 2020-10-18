@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Tests in allocation" type="DartTestRunConfigurationType" factoryName="Dart Test" nameIsGenerated="true">
+    <option name="filePath" value="$PROJECT_DIR$/kick-starts/2020-A/allocation" />
+    <option name="scope" value="FOLDER" />
+    <method v="2" />
+  </configuration>
+</component>
