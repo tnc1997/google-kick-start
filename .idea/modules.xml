@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kick-starts/2021-C/alien-generator/alien-generator.iml" filepath="$PROJECT_DIR$/kick-starts/2021-C/alien-generator/alien-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/kick-starts/2020-A/allocation/allocation.iml" filepath="$PROJECT_DIR$/kick-starts/2020-A/allocation/allocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kick-starts/2021-D/arithmetic-square/arithmetic-square.iml" filepath="$PROJECT_DIR$/kick-starts/2021-D/arithmetic-square/arithmetic-square.iml" />
       <module fileurl="file://$PROJECT_DIR$/kick-starts/2020-C/countdown/countdown.iml" filepath="$PROJECT_DIR$/kick-starts/2020-C/countdown/countdown.iml" />
       <module fileurl="file://$PROJECT_DIR$/kick-starts/2020-G/kick-start/kick-start.iml" filepath="$PROJECT_DIR$/kick-starts/2020-G/kick-start/kick-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/kick-starts/2020-E/longest-arithmetic/longest-arithmetic.iml" filepath="$PROJECT_DIR$/kick-starts/2020-E/longest-arithmetic/longest-arithmetic.iml" />
